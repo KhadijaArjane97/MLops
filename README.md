@@ -8,3 +8,4 @@ MLOps peut ressembler au nom d’un monstre borgne et hirsute, mais il s’agit 
 
 Abréviation de Machine learning operations, MLOps est un ensemble de meilleures pratiques pour les entreprises afin de gérer l’IA avec succès.
 
+### Ce Projet est Une Etude comparative entre les outils d'automatisation et d'orchestration des tâche ML: Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow
